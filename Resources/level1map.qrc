@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>West Wing Map.png</file>
+        <file>favicon.ico</file>
+    </qresource>
+</RCC>
